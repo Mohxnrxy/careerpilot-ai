@@ -1,0 +1,14 @@
+Mohanraj
+
+Skills:
+Python
+SQL
+Machine Learning
+Android Development
+
+Projects:
+Fraud Detection System
+AI Chatbot
+
+Education:
+B.Tech Information Technology
